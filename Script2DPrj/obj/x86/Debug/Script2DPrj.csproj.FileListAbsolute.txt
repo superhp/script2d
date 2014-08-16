@@ -1,0 +1,30 @@
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Script2D.exe
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Script2D.pdb
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Script2D.Properties.Resources.resources
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Script2D.exe
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Script2D.pdb
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Script2D.Forma.resources
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.exe
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.pdb
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\bin\Debug\Script2D.exe
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\bin\Debug\Script2D.pdb
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.Forma.resources
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.Properties.Resources.resources
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SuperHP\Documents\Visual Studio 2010\Projects\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.Apie.resources
+\\HP-PWLPT\vid\E#(Pramogos - NTFS 1)\mano\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.exe
+\\HP-PWLPT\vid\E#(Pramogos - NTFS 1)\mano\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.pdb
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.exe
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.pdb
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\bin\Debug\Script2D.exe
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\bin\Debug\Script2D.pdb
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2DPrj.csprojResolveAssemblyReference.cache
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.Apie.resources
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.Forma.resources
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2D.Properties.Resources.resources
+C:\Users\Aurimas\Desktop\Git\Script2DPrj\Script2DPrj\obj\x86\Debug\Script2DPrj.csproj.GenerateResource.Cache

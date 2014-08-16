@@ -1,0 +1,3 @@
+The idea of this project was to create a tool for easily creating computer graphics byprogramming. I designed an interpreted language which knows basic geometric figures,coloring and has implemented variable assignment, loop, condition and other basic state-ments. I also developed an IDE, which has code highligher, history and result (image)display. The project was developed by using C# .Net Framework.
+
+Copyright (C) Aurimas Simkus, 2011
